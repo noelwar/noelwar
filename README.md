@@ -5,4 +5,5 @@
 - 🌌📖 deep learning
 - 🔎0️⃣1️⃣ and just general data science - especially where
 - 👨‍💼💼📈 business and analytics meet!
-- 🌐 Reach out to me on my [Linkedin](https://www.linkedin.com/in/noelwarjri/) for a friendly chat!
+
+- Check out my [PersonalProjects](https://github.com/noelwar/PersonalProjects) if you're an employer or just a curious cat.
