@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" alt="drawing" width="1000" height="400"/>
+<img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" alt="drawing" width="1000" height="100"/>
 
 <h1 align="center">Helllooo 👋, I'm Christian</h1>
 <br>
