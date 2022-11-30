@@ -1,3 +1,5 @@
+[![MasterHead](https://media.giphy.com/media/GMp6XOxRv6FnBFjTdZ/giphy.gif)](asd)
+
 <h1 align="center">Helllooo 👋, I'm Christian</h1>
 <br>
 <h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general data science 🔍!</h3>
