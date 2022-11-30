@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/GMp6XOxRv6FnBFjTdZ/giphy.gif)](asd)
+<img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" alt="drawing" width="1200" height="500"/>
 
 <h1 align="center">Helllooo 👋, I'm Christian</h1>
 <br>
