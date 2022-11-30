@@ -1,6 +1,6 @@
 <h1 align="center">Helllooo 👋, I'm Christian</h1>
 <br>
-<h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general problem solving 🔍!</h3>
+<h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general data science 🔍!</h3>
 <br>
 
 - 🌱 I’m currently learning **more about certain ML algos, version control, A/B testing, and using Bash well!**
