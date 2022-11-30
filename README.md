@@ -5,6 +5,17 @@
 <h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general data science 🔍!</h3>
 <br>
 
+
+<p align = "right">
+  <img src = "https://media.giphy.com/media/3o7qEcFE19nWq16Ze8/giphy.gif">
+  
+</p>
+
+<p align = "right">
+Fig.1 - 4K Mountains Wallpaper
+</p>
+
+  
 - 🌱 I’m currently learning **more about certain ML algos, version control, A/B testing, and using Bash well!**
 
 - 📫 Email me at **christian.w@ahduni.edu.in** 
