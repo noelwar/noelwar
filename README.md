@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **more about certain ML algos, version control, A/B testing, and using Bash well!**
 
-- 📫 Email me at **christian.w@ahduni.edu.in** 
+- 📫 Email me at **christian.warjri99@gmail.com** 
 
 - 📄 Check out my [resume](https://drive.google.com/file/d/1glpJcmluSoDOlUy6VdlIfl0Pg7CE5MMF/view?usp=sharing)
 
