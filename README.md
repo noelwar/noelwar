@@ -1,11 +1,11 @@
 <h1 align="center">Helllooo 👋, I'm Christian</h1>
 <br>
-<h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general data science 🔍!</h3>
+<h3 align="center">Interested in all things statistics 📊 and analytics 🕵🏼 and general data science/engineering 🔍!</h3>
 <br>
 
 <img src="https://i.imgur.com/e6ZN53I.gif" alt="image" style="width:88%" align="right">
   
-- 🌱 I’m currently learning **more about certain ML algos, version control, A/B testing, and using Bash well!**
+- 🌱 I’m currently learning a bunch of DE stuff 
 
 - 📫 Email me at **christian.warjri99@gmail.com** 
 
